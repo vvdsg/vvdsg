@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvdsg&color=blue" alt="Profile views" /> </p>
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvdsg&color=blue" alt="Profile views" /> </p>
+</div>
 
 <div>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=vvdsg&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
