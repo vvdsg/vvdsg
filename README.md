@@ -2,6 +2,8 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvdsg&color=blue" alt="Profile views" /> </p>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27e8a7&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Guedes;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
+
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vvdsg&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 </div>
