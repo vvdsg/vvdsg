@@ -4,7 +4,7 @@
 
 <div>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=vvdsg&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdsg&layout=compact&langs_count=16&theme=blueberry"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdsg&layout=compact&langs_count=16&theme=blueberry"/>
 </div>
 
 ### Contact:
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/viniciusguedes-ptbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  
  ### Main skills:
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Microsoft-Sql-Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Microsoft-Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
