@@ -22,5 +22,3 @@
 ![Microsoft-Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 
-
-  ![Snake animation](https://github.com/vvdsg/vvdsg/blob/output/github-contribution-grid-snake.svg)
